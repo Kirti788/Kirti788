@@ -1,5 +1,5 @@
 ### Hi there 👋
-[!MasterHead](https://media3.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif?cid=ecf05e47eci5jdbdjmt7evg7z3tywkbt18spsixuhdfk005v&ep=v1_gifs_search&rid=giphy.gif&ct=g)](https://kirti788.io)
+[![MasterHead](https://media3.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif?cid=ecf05e47eci5jdbdjmt7evg7z3tywkbt18spsixuhdfk005v&ep=v1_gifs_search&rid=giphy.gif&ct=g)](https://kirti788.io)
 <h1 align="center">Hi 👋, I'm Kirti788</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://thumbs.gfycat.com/GlisteningAggravatingJunebug.webp">
